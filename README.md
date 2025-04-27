@@ -1,4 +1,4 @@
-Sangita Manna
+## Sangita Manna
 
 About Me
 
