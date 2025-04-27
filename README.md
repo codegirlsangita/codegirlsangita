@@ -1,6 +1,6 @@
-## Sangita Manna
+### Sangita Manna
 
-About Me
+##About Me
 
 I'm a passionate software developer with expertise in web development, mobile apps, and cloud technologies. I enjoy building scalable, user-friendly applications and solving complex technical challenges. My goal is to create impactful solutions that blend innovation with practicality.
 
@@ -8,38 +8,38 @@ I'm a passionate software developer with expertise in web development, mobile ap
 
 
 
-GitHub: codegirlsangita
+##GitHub: codegirlsangita
 
 
 
-LinkedIn: Sangita Manna
-
-
-
-
-Skills
+##LinkedIn: Sangita Manna
 
 
 
 
-
-Languages: JavaScript, TypeScript, Python, Java
-
-
-
-Web Development: React, Node.js, Express, HTML, CSS, Tailwind CSS
+##Skills
 
 
 
-Mobile Development: React Native, Flutter
+
+
+## Languages: JavaScript, TypeScript, Python, Java
 
 
 
-Cloud Technologies: AWS, Azure, Google Cloud
+## Web Development: React, Node.js, Express, HTML, CSS, Tailwind CSS
 
 
 
-Databases: MongoDB, PostgreSQL, MySQL
+## Mobile Development: React Native, Flutter
+
+
+
+## Cloud Technologies: AWS, Azure, Google Cloud
+
+
+
+## Databases: MongoDB, PostgreSQL, MySQL
 
 
 
@@ -47,7 +47,7 @@ Tools & Platforms: Git, Docker, Kubernetes, CI/CD pipelines
 
 
 
-Contact
+## Contact
 
 Feel free to reach out for collaboration, job opportunities, or just to chat about tech!
 
@@ -55,7 +55,7 @@ Feel free to reach out for collaboration, job opportunities, or just to chat abo
 
 
 
-Email: codegirlsangita@gmail.com
+## Email: codegirlsangita@gmail.com
 
 
 
