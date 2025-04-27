@@ -1,6 +1,6 @@
 ### Sangita Manna
 
-##About Me
+## About Me
 
 I'm a passionate software developer with expertise in web development, mobile apps, and cloud technologies. I enjoy building scalable, user-friendly applications and solving complex technical challenges. My goal is to create impactful solutions that blend innovation with practicality.
 
@@ -8,16 +8,16 @@ I'm a passionate software developer with expertise in web development, mobile ap
 
 
 
-##GitHub: codegirlsangita
+## GitHub: codegirlsangita
 
 
 
-##LinkedIn: Sangita Manna
+## LinkedIn: Sangita Manna
 
 
 
 
-##Skills
+## Skills
 
 
 
