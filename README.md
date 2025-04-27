@@ -23,23 +23,23 @@ I'm a passionate software developer with expertise in web development, mobile ap
 
 
 
-## Languages: JavaScript, TypeScript, Python, Java
+### Languages: JavaScript, TypeScript, Python, Java
 
 
 
-## Web Development: React, Node.js, Express, HTML, CSS, Tailwind CSS
+### Web Development: React, Node.js, Express, HTML, CSS, Tailwind CSS
 
 
 
-## Mobile Development: React Native, Flutter
+### Mobile Development: React Native, Flutter
 
 
 
-## Cloud Technologies: AWS, Azure, Google Cloud
+### Cloud Technologies: AWS, Azure, Google Cloud
 
 
 
-## Databases: MongoDB, PostgreSQL, MySQL
+### Databases: MongoDB, PostgreSQL, MySQL
 
 
 
